@@ -1,8 +1,8 @@
 {
- "version": "2.7.1",
- "notes": "Классический стиль: магазин, цвета, виджеты и сохранённое расположение блоков теперь реально применяются (раньше не доходили из-за старого обработчика). Доступ к вкладке «Магазин» теперь только по паролю администратора.",
- "exeUrl": "https://github.com/nigastyle/bigtechnoclub-updates/releases/download/v2.7.1/BIGTECHNOCLUB.exe",
+ "version": "2.7.2",
+ "notes": "внутренняя правка",
+ "exeUrl": "https://github.com/nigastyle/bigtechnoclub-updates/releases/download/v2.7.2/BIGTECHNOCLUB.exe",
  "exeSize": 83943784,
- "exeSha256": "59d43663231e9852216104a5e46dc63eeee704a3859acd1bacc3174c79c1645d",
- "sig": "WtFaHUiEZ31fy63n4IHfnJaV+GAZ5/UsVLOFl/aBNQyLL1vanzhBqS5c2crkafiYmVs6pa/PQ3hWWA6fXI6o7g=="
+ "exeSha256": "f8acbe6d26a479585bbd4a08ea632cf39342b2178bab311cd5fc64e7f7745d9a",
+ "sig": "Q+LT6dMkjI8A8+/+quF6CKpyPj8sUD3FigGfh2XBoLnM93OAlhE9PolCIGotnTsQtkHo8vqU8QeF9LtsHmObKA=="
 }
