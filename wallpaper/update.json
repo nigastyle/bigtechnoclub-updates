@@ -1,0 +1,8 @@
+{
+ "version": "2.7.0",
+ "notes": "Автообновление перенесено на GitHub: программа сама проверяет и ставит новые версии каждые 4 часа, больше не нужно ничего скачивать и подменять вручную.",
+ "exeUrl": "https://github.com/nigastyle/bigtechnoclub-updates/releases/download/v2.7.0/BIGTECHNOCLUB.exe",
+ "exeSize": 83942248,
+ "exeSha256": "5ac81719d5ab19964a48de845f9ee1c55b78ca0f801b69e248aa4987306410a0",
+ "sig": "NNt+UqBEhLTMiPTFXgMv7CHlAlaDFhOfqaxWD4UumKzD3wmnMqt+KYCMHWqVhrC/yHf4EYuBdlNhtX2U1W8cuQ=="
+}
