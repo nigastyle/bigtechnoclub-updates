@@ -1,8 +1,8 @@
 {
- "version": "2.7.5",
- "notes": "Виджеты больше не наезжают друг на друга и на текст/лого, панель «Состояние ПК» по двойному щелчку на CPU/GPU/RAM/диске, обои не вылезают под панель задач.",
- "exeUrl": "https://github.com/nigastyle/bigtechnoclub-updates/releases/download/v2.7.5/BIGTECHNOCLUB.exe",
- "exeSize": 84004712,
- "exeSha256": "85e940d73e022013802b6c6688abbcf5ef570f4b4109785f1f899763fd3fa5e9",
- "sig": "g2SWptOY4q9qfDigDcKm6Y0AmdCLWc+VhEXelBSMLzLWyMxgRCbSv/7+3b+iLeis2KkNpoVo43fYWDcPxdE3dg=="
+ "version": "2.7.6",
+ "notes": "Исправлена причина пропавших плиток CPU/GPU/RAM/DISK; самовосстановление при пересоздании рабочего стола.",
+ "exeUrl": "https://github.com/nigastyle/bigtechnoclub-updates/releases/download/v2.7.6/BIGTECHNOCLUB.exe",
+ "exeSize": 84005736,
+ "exeSha256": "c7f7157180712c80abbdac071e2991f2c2fc07430418838b7430f0a08512af64",
+ "sig": "MH9VIK9OAYH8vTWrRKf57Ghu2GyKtUbgN75NzpLcswWE0k8ka59juN/zr6VV4E4C80Rsr3kO7/kWztF9fLzarA=="
 }
