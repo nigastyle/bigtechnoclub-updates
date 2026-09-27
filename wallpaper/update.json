@@ -1,8 +1,8 @@
 {
- "version": "2.7.15",
- "notes": "Двойной клик по виджетам открывает настройки; виджет батареи показывается только на ноутбуках.",
- "exeUrl": "https://github.com/nigastyle/bigtechnoclub-updates/releases/download/v2.7.15/BIGTECHNOCLUB.exe",
+ "version": "2.7.16",
+ "notes": "Убраны технические пометки «(Zapret)» и «(шлюз)» из меню NetFix.",
+ "exeUrl": "https://github.com/nigastyle/bigtechnoclub-updates/releases/download/v2.7.16/BIGTECHNOCLUB.exe",
  "exeSize": 84009834,
- "exeSha256": "e900cab4f23280167af8548ec98590a2b44a42420c4a2f8c1dce184969b9e347",
- "sig": "IuBCIHqbD6Agbv7PTTLNdtzDP9yKzEEBcCZjRfeZT4gQtMEkfDSN1k1RXEBHaJh24ilJAoJEAKODHLRpohdSdA=="
+ "exeSha256": "09e8f9e9715e03ce0444cb57c7720c1f130531209c17a4df14d45c4f6ac5dfd1",
+ "sig": "LMG3AX4gkGwG1NgkdLak3KrK6zWBhCIO6o2mKZVEKl8U8LLPQh7Xxd2ILG9QtWVTOp3fjDJpZPJcc15AILUGRg=="
 }
