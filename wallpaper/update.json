@@ -1,8 +1,8 @@
 {
- "version": "2.7.11",
- "notes": "Погода: двойной клик - Гисметео в браузере, тройной клик по городу - смена города. Мелкие правки.",
- "exeUrl": "https://github.com/nigastyle/bigtechnoclub-updates/releases/download/v2.7.11/BIGTECHNOCLUB.exe",
- "exeSize": 84007786,
- "exeSha256": "0017f5a8a2ea2680ce3181f94024d60ee7a53b15b3cd8248b393b8ee48954f7e",
- "sig": "QM1cNoVddFNi0bWk7UcEVFRAGT4eUEzvOcTakbAX+00s3p+iGLSzIJyEGtIZRVUO0rS+OXMWLzMyr4Y1GFzg8w=="
+ "version": "2.7.12",
+ "notes": "Смена города через тройной клик теперь работает надёжно - своё поле ввода вместо системного диалога, который не всегда ловил клавиатуру.",
+ "exeUrl": "https://github.com/nigastyle/bigtechnoclub-updates/releases/download/v2.7.12/BIGTECHNOCLUB.exe",
+ "exeSize": 84008810,
+ "exeSha256": "1d98f8364edaa7cffd8f0ba22ddbcf2ec50dd8745464b324b7c19580d8594b45",
+ "sig": "vYvCGLfrBQ/EJfuMm1qq7jPCv5EanMteL2CEMDlbce2KhONuj9o5o4FWuMNbmD0SUFaO6m11QMPAEsHgxp0T9A=="
 }
