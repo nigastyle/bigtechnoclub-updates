@@ -1,8 +1,8 @@
 {
- "version": "2.7.10",
- "notes": "Погода: двойной клик по виджету открывает Гисметео в браузере, тройной клик по названию города - смена города.",
- "exeUrl": "https://github.com/nigastyle/bigtechnoclub-updates/releases/download/v2.7.10/BIGTECHNOCLUB.exe",
+ "version": "2.7.11",
+ "notes": "Погода: двойной клик - Гисметео в браузере, тройной клик по городу - смена города. Мелкие правки.",
+ "exeUrl": "https://github.com/nigastyle/bigtechnoclub-updates/releases/download/v2.7.11/BIGTECHNOCLUB.exe",
  "exeSize": 84007786,
- "exeSha256": "8a96174b3e6a84f8fbcf77b6964b802afd3193052fb8bc6c679838b638742fd8",
- "sig": "xgYYhV8dbaj93aKK7Jb6gOqm89VimLL+Iz8q118yetIGPa6vRW7AgPYEEMYQNJxTEY6B2h0xiZhvi6Jpf+zLvQ=="
+ "exeSha256": "0017f5a8a2ea2680ce3181f94024d60ee7a53b15b3cd8248b393b8ee48954f7e",
+ "sig": "QM1cNoVddFNi0bWk7UcEVFRAGT4eUEzvOcTakbAX+00s3p+iGLSzIJyEGtIZRVUO0rS+OXMWLzMyr4Y1GFzg8w=="
 }
