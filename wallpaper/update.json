@@ -1,8 +1,8 @@
 {
- "version": "2.7.14",
- "notes": "Фикс фокуса клавиатуры: окна настроек и «Состояние ПК» теперь принимают ввод с клавиатуры сразу после открытия.",
- "exeUrl": "https://github.com/nigastyle/bigtechnoclub-updates/releases/download/v2.7.14/BIGTECHNOCLUB.exe",
- "exeSize": 84008810,
- "exeSha256": "f5818a9ca5ec421dd81a1f1f9eb46de805f46b7275dd8bedd83b6333060ecdf4",
- "sig": "G1Mg/ccDaKp7krqZ4qBaDmEiReEhjKRXJoG7qZr3B2pERQvLOIIfeLdim3Sc9Z/gJEJ2/KoFUHYrd8fzZtKg6g=="
+ "version": "2.7.15",
+ "notes": "Двойной клик по виджетам открывает настройки; виджет батареи показывается только на ноутбуках.",
+ "exeUrl": "https://github.com/nigastyle/bigtechnoclub-updates/releases/download/v2.7.15/BIGTECHNOCLUB.exe",
+ "exeSize": 84009834,
+ "exeSha256": "e900cab4f23280167af8548ec98590a2b44a42420c4a2f8c1dce184969b9e347",
+ "sig": "IuBCIHqbD6Agbv7PTTLNdtzDP9yKzEEBcCZjRfeZT4gQtMEkfDSN1k1RXEBHaJh24ilJAoJEAKODHLRpohdSdA=="
 }
