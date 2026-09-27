@@ -1,8 +1,8 @@
 {
- "version": "2.7.12",
- "notes": "Смена города через тройной клик теперь работает надёжно - своё поле ввода вместо системного диалога, который не всегда ловил клавиатуру.",
- "exeUrl": "https://github.com/nigastyle/bigtechnoclub-updates/releases/download/v2.7.12/BIGTECHNOCLUB.exe",
+ "version": "2.7.14",
+ "notes": "Фикс фокуса клавиатуры: окна настроек и «Состояние ПК» теперь принимают ввод с клавиатуры сразу после открытия.",
+ "exeUrl": "https://github.com/nigastyle/bigtechnoclub-updates/releases/download/v2.7.14/BIGTECHNOCLUB.exe",
  "exeSize": 84008810,
- "exeSha256": "1d98f8364edaa7cffd8f0ba22ddbcf2ec50dd8745464b324b7c19580d8594b45",
- "sig": "vYvCGLfrBQ/EJfuMm1qq7jPCv5EanMteL2CEMDlbce2KhONuj9o5o4FWuMNbmD0SUFaO6m11QMPAEsHgxp0T9A=="
+ "exeSha256": "f5818a9ca5ec421dd81a1f1f9eb46de805f46b7275dd8bedd83b6333060ecdf4",
+ "sig": "G1Mg/ccDaKp7krqZ4qBaDmEiReEhjKRXJoG7qZr3B2pERQvLOIIfeLdim3Sc9Z/gJEJ2/KoFUHYrd8fzZtKg6g=="
 }
