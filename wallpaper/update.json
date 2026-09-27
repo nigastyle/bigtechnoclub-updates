@@ -1,8 +1,8 @@
 {
- "version": "2.7.8",
- "notes": "Виджеты (погода и т.п.) больше не прыгают при открытии панели «Состояние ПК» - остаются на месте и уходят под неё.",
- "exeUrl": "https://github.com/nigastyle/bigtechnoclub-updates/releases/download/v2.7.8/BIGTECHNOCLUB.exe",
- "exeSize": 84006248,
- "exeSha256": "a045784d669c60276e97a5bc3b736046a153a56350f2bc3e93b0d9fa5dff41b1",
- "sig": "Vu0R1ovOI05zMWkgyGatqYHJVyn4e4prMyuOdeXVbgmJ/KQo86j7+YmCDAnTDTAPXwqf60fPOZIrmYz1uqPfNA=="
+ "version": "2.7.9",
+ "notes": "Исправлен конфликт одиночного/двойного клика по плиткам - панель «Состояние ПК» теперь открывается и закрывается без побочных эффектов.",
+ "exeUrl": "https://github.com/nigastyle/bigtechnoclub-updates/releases/download/v2.7.9/BIGTECHNOCLUB.exe",
+ "exeSize": 84006760,
+ "exeSha256": "1f9a781a04fef26947e1e05c046d35e3ac3d05117706e3154ccc5cc292325e67",
+ "sig": "rsAVHDkZVLmqbZ/q5Pyr8+p2xDhBFZv0420Pqk1O7sTwQqmZ6Ug7udTY6NOVUUDBZU2oshMzOmgkQ+KK8xtUCw=="
 }
