@@ -1,8 +1,8 @@
 {
- "version": "2.7.2",
- "notes": "внутренняя правка",
- "exeUrl": "https://github.com/nigastyle/bigtechnoclub-updates/releases/download/v2.7.2/BIGTECHNOCLUB.exe",
- "exeSize": 83943784,
- "exeSha256": "f8acbe6d26a479585bbd4a08ea632cf39342b2178bab311cd5fc64e7f7745d9a",
- "sig": "Q+LT6dMkjI8A8+/+quF6CKpyPj8sUD3FigGfh2XBoLnM93OAlhE9PolCIGotnTsQtkHo8vqU8QeF9LtsHmObKA=="
+ "version": "2.7.5",
+ "notes": "Виджеты больше не наезжают друг на друга и на текст/лого, панель «Состояние ПК» по двойному щелчку на CPU/GPU/RAM/диске, обои не вылезают под панель задач.",
+ "exeUrl": "https://github.com/nigastyle/bigtechnoclub-updates/releases/download/v2.7.5/BIGTECHNOCLUB.exe",
+ "exeSize": 84004712,
+ "exeSha256": "85e940d73e022013802b6c6688abbcf5ef570f4b4109785f1f899763fd3fa5e9",
+ "sig": "g2SWptOY4q9qfDigDcKm6Y0AmdCLWc+VhEXelBSMLzLWyMxgRCbSv/7+3b+iLeis2KkNpoVo43fYWDcPxdE3dg=="
 }
