@@ -1,8 +1,8 @@
 {
- "version": "2.7.6",
- "notes": "Исправлена причина пропавших плиток CPU/GPU/RAM/DISK; самовосстановление при пересоздании рабочего стола.",
- "exeUrl": "https://github.com/nigastyle/bigtechnoclub-updates/releases/download/v2.7.6/BIGTECHNOCLUB.exe",
- "exeSize": 84005736,
- "exeSha256": "c7f7157180712c80abbdac071e2991f2c2fc07430418838b7430f0a08512af64",
- "sig": "MH9VIK9OAYH8vTWrRKf57Ghu2GyKtUbgN75NzpLcswWE0k8ka59juN/zr6VV4E4C80Rsr3kO7/kWztF9fLzarA=="
+ "version": "2.7.7",
+ "notes": "Вернулась погода и клик по плиткам CPU/GPU/RAM/DISK; контакты больше не наезжают на лого.",
+ "exeUrl": "https://github.com/nigastyle/bigtechnoclub-updates/releases/download/v2.7.7/BIGTECHNOCLUB.exe",
+ "exeSize": 84006248,
+ "exeSha256": "86fbf805a1e461639586242c19d5fd73439d9fa36f39dca5f91796e1fd96eb18",
+ "sig": "B54pmC9LQusRfaaoOuODVQmg+FBFqlWyXne9ikXR87RS/vyzlQZ5959V2aBe2Drm6cmUeMJBwYdzuGXRFBFmHw=="
 }
