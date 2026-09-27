@@ -1,8 +1,8 @@
 {
- "version": "2.7.7",
- "notes": "Вернулась погода и клик по плиткам CPU/GPU/RAM/DISK; контакты больше не наезжают на лого.",
- "exeUrl": "https://github.com/nigastyle/bigtechnoclub-updates/releases/download/v2.7.7/BIGTECHNOCLUB.exe",
+ "version": "2.7.8",
+ "notes": "Виджеты (погода и т.п.) больше не прыгают при открытии панели «Состояние ПК» - остаются на месте и уходят под неё.",
+ "exeUrl": "https://github.com/nigastyle/bigtechnoclub-updates/releases/download/v2.7.8/BIGTECHNOCLUB.exe",
  "exeSize": 84006248,
- "exeSha256": "86fbf805a1e461639586242c19d5fd73439d9fa36f39dca5f91796e1fd96eb18",
- "sig": "B54pmC9LQusRfaaoOuODVQmg+FBFqlWyXne9ikXR87RS/vyzlQZ5959V2aBe2Drm6cmUeMJBwYdzuGXRFBFmHw=="
+ "exeSha256": "a045784d669c60276e97a5bc3b736046a153a56350f2bc3e93b0d9fa5dff41b1",
+ "sig": "Vu0R1ovOI05zMWkgyGatqYHJVyn4e4prMyuOdeXVbgmJ/KQo86j7+YmCDAnTDTAPXwqf60fPOZIrmYz1uqPfNA=="
 }
