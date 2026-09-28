@@ -1,8 +1,8 @@
 {
- "version": "1.0.1",
+ "version": "1.0.2",
  "notes": "internal",
- "exeUrl": "https://github.com/nigastyle/bigtechnoclub-updates/releases/download/support-v1.0.1/BTCSupport.exe",
- "exeSize": 51611744,
- "exeSha256": "e0739261ddb97befeefe1bc6c4aac942ce4539247d0a1f161f57e9e4da4ed561",
- "sig": "o0ODe9+yREwcS5j24kpcBeId1OThy3nZ5Vis2DLzt3cHKCdiis7pIaEqxKe7a5NRgPoGWDMFf4OfIpSt9IC4Sg=="
+ "exeUrl": "https://github.com/nigastyle/bigtechnoclub-updates/releases/download/support-v1.0.2/BTCSupport.exe",
+ "exeSize": 51611791,
+ "exeSha256": "4d062628730ae174e0bb283159075a64bb112213d010ff135c22b29fa89839e2",
+ "sig": "teKdj3yXPHanfBc/KWp7KkdwVNs+YMEqb8/PP93EerPTVOudMRMEH+r+gHbMPIuqoQa3U7oeICYMYQvbRqe0Yg=="
 }
